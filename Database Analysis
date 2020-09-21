@@ -2,7 +2,7 @@
 
 #Import the data into RStudio
 
-repdata.data.StormData <- read.csv("C:/Users/Raymond/Desktop/repdata-data-StormData.csv")
+repdata.data.StormData <- read.csv("C:/Users/Deepayan/Desktop/repdata-data-StormData.csv")
 View(repdata.data.StormData)
 
 data<-repdata.data.StormData
